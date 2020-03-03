@@ -9,7 +9,7 @@ Documentation about SAP Commerce Integration using SAP Cloud Platform Integratio
             -   [Integration Scenarios: SCPI](Integration_Scenarios_SCPI.md)
 
 
-You'll find 2 sample packafed SCPI iflows in the iflows folder:
+You'll find 2 sample packaged SCPI iflows in the iflows folder:
 * [SendOrders.zip](iflows/SendOrders.zip): A packaged SCPI iFlow illustrating an outbound integration scenario where SAP Commerce orders are transmitted to a third-party service for additional processing.
 * [SendProductRatings.zip](iflows/SendProductRatings.zip): A packaged SCPI iFlow illustrating an inbound integration scenario where a third-party service sends the SAP Commerce Product Catalog external data.
 
