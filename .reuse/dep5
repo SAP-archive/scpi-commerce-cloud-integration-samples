@@ -1,0 +1,10 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: scpi-commerce-cloud-integration-samples
+Upstream-Contact: Pascal Barbier <pascal.barbier@sap.com>
+Source: https://github.com/SAP-samples/scpi-commerce-cloud-integration-samples
+
+# Sample paragraph, commented out:
+#
+# Files: src/*
+# Copyright: $YEAR $NAME <$CONTACT>
+# License: ...
