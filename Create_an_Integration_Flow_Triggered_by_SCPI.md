@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2020 Pascal Barbier <pascal.barbier@sap.com>
+
+SPDX-License-Identifier: Apache-2.0
+-->
+
 <!-- loiobcad98f61a714350b78d0b57e0f91be8 -->
 <details><summary><b>Table of Contents</b></summary>
 <p>

@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2020 Pascal Barbier <pascal.barbier@sap.com>
+
+SPDX-License-Identifier: Apache-2.0
+-->
+
 # Description
 Documentation about SAP Commerce Integration using SAP Cloud Platform Integration (SCPI) with samples Iflows:
 
